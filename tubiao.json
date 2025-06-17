@@ -1,22 +1,26 @@
 {
-  "name": "emby",
+  "name": "超分emby图标",
   "description": "",
   "icons": [
     {
       "name": "feimiao1",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1.png"
+      "round": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_round.png",
+      "circle": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_circle.png"
     },
     {
       "name": "feimiao2",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2.png"
+      "round": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2_round.png",
+      "circle": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2_circle.png"
     },
     {
       "name": "feimiao3",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3.png"
+      "round": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3_round.png",
+      "circle": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3_circle.png"
     },
     {
       "name": "gudong",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.png"
+      "round": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_round.png",
+      "circle": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_circle.png"
     }
   ]
 }
