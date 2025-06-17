@@ -3,16 +3,20 @@
   "description": "",
   "icons": [
     {
-      "name": "Meowfly",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/Meowfly.png"
+      "name": "feimiao1",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1.png"
     },
     {
-      "name": "Meowfly1.JPG",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/Meowfly1.JPG.png"
+      "name": "feimiao2",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2.png"
     },
     {
-      "name": "gudong.JPG",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG.png"
+      "name": "feimiao3",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3.png"
+    },
+    {
+      "name": "gudong",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.png"
     }
   ]
 }
