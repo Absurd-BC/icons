@@ -3,12 +3,16 @@
   "description": "",
   "icons": [
     {
-      "name": "gudong.JPG_radius",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG_radius.png"
+      "name": "feimiao1_radius",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_radius.png"
     },
     {
-      "name": "gudong.JPG_round",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG_round.png"
+      "name": "feimiao1_round",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_round.png"
+    },
+    {
+      "name": "feimiao3",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3.png"
     }
   ]
 }
