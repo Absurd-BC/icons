@@ -3,24 +3,36 @@
   "description": "",
   "icons": [
     {
-      "name": "feimiao1",
-      "round": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_round.png",
-      "circle": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_circle.png"
+      "name": "feimiao1.JPG_radius",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1.JPG_radius.png"
     },
     {
-      "name": "feimiao2",
-      "round": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2_round.png",
-      "circle": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2_circle.png"
+      "name": "feimiao1.JPG_round",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1.JPG_round.png"
     },
     {
-      "name": "feimiao3",
-      "round": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3_round.png",
-      "circle": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3_circle.png"
+      "name": "feimiao2.JPG_radius",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2.JPG_radius.png"
     },
     {
-      "name": "gudong",
-      "round": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_round.png",
-      "circle": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_circle.png"
+      "name": "feimiao2.JPG_round",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2.JPG_round.png"
+    },
+    {
+      "name": "feimiao3_radius",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3_radius.png"
+    },
+    {
+      "name": "feimiao3_round",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3_round.png"
+    },
+    {
+      "name": "gudong.JPG_radius",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG_radius.png"
+    },
+    {
+      "name": "gudong.JPG_round",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG_round.png"
     }
   ]
 }
