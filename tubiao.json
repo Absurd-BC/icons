@@ -1,14 +1,14 @@
 {
-  "name": "emby",
+  "name": "超分emby图标",
   "description": "",
   "icons": [
     {
-      "name": "feimiao2.JPG",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2.JPG.png"
+      "name": "gudong.JPG_radius",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG_radius.png"
     },
     {
-      "name": "gudong.JPG",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG.png"
+      "name": "gudong.JPG_round",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG_round.png"
     }
   ]
 }
