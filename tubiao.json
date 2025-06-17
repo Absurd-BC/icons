@@ -1,5 +1,10 @@
 {
   "name": "emby",
   "description": "",
-  "icons": []
+  "icons": [
+    {
+      "name": "gudong.JPG",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG.png"
+    }
+  ]
 }
