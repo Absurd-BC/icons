@@ -3,6 +3,10 @@
   "description": "",
   "icons": [
     {
+      "name": "feimiao2.JPG",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2.JPG.png"
+    },
+    {
       "name": "gudong.JPG",
       "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.JPG.png"
     }
