@@ -1,5 +1,22 @@
 {
   "name": "emby",
   "description": "",
-  "icons": []
+  "icons": [
+    {
+      "name": "feimiao1",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1.png"
+    },
+    {
+      "name": "feimiao2",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2.png"
+    },
+    {
+      "name": "feimiao3",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3.png"
+    },
+    {
+      "name": "gudong",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong.png"
+    }
+  ]
 }
