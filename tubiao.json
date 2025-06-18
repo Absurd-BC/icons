@@ -1,34 +1,17 @@
 {
   "name": "超分emby图标",
-  "description": "",
   "icons": [
-    {
-      "name": "feimiao1_radius",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_radius.png"
-    },
-    {
-      "name": "feimiao1_round",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_round.png"
-    },
-    {
-      "name": "feimiao2_radius",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2_radius.png"
-    },
-    {
-      "name": "feimiao2_round",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao2_round.png"
-    },
     {
       "name": "feimiao3",
       "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3.png"
     },
     {
-      "name": "gudong_radius",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_radius.png"
+      "name": "feimiao3_radius",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3_radius.png"
     },
     {
-      "name": "gudong_round",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_round.png"
+      "name": "feimiao3_round",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao3_round.png"
     }
   ]
 }
