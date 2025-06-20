@@ -1,5 +1,10 @@
 {
   "name": "超分emby图标",
   "description": "自动处理的高质量图标库，优先使用透明背景，其次圆角，再次圆形",
-  "icons": []
+  "icons": [
+    {
+      "name": "feimiao",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao_radius.png"
+    }
+  ]
 }
