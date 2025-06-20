@@ -1,18 +1,5 @@
 {
   "name": "超分emby图标",
-  "description": "",
-  "icons": [
-    {
-      "name": "yunhai",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/yunhai.png"
-    },
-    {
-      "name": "yunhai_radius",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/yunhai_radius.png"
-    },
-    {
-      "name": "yunhai_round",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/yunhai_round.png"
-    }
-  ]
+  "description": "自动处理的高质量图标库，优先使用透明背景，其次圆角，再次圆形",
+  "icons": []
 }
