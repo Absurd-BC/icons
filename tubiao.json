@@ -1,7 +1,16 @@
 {
   "name": "超分emby图标",
   "description": "自动处理的高质量图标库，包含多种样式版本",
-  "updateTime": "2025-07-02T08:51:54.445Z",
-  "totalIcons": 0,
-  "icons": []
+  "updateTime": "2025-07-02T08:55:18.055Z",
+  "totalIcons": 2,
+  "icons": [
+    {
+      "name": "gudong",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_radius.png"
+    },
+    {
+      "name": "gudong_round",
+      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_round.png"
+    }
+  ]
 }
