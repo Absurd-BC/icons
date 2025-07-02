@@ -1,24 +1,7 @@
 {
   "name": "超分emby图标",
   "description": "自动处理的高质量图标库，包含多种样式版本",
-  "updateTime": "2025-06-28T08:49:07.101Z",
-  "totalIcons": 4,
-  "icons": [
-    {
-      "name": "feimiao1",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_radius.png"
-    },
-    {
-      "name": "feimiao1_round",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/feimiao1_round.png"
-    },
-    {
-      "name": "gudong",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_radius.png"
-    },
-    {
-      "name": "gudong_round",
-      "url": "https://raw.githubusercontent.com/Absurd-BC/icons/main/pic/gudong_round.png"
-    }
-  ]
+  "updateTime": "2025-07-02T08:45:21.467Z",
+  "totalIcons": 0,
+  "icons": []
 }
