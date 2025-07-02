@@ -1,3 +1,7 @@
-tubiao.js
+node_modules/
+.DS_Store
+*.log
+.env
+.env.local
+*.tmp
 .last_hash.json
-test_paths.js
